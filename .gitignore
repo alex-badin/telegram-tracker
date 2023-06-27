@@ -18,3 +18,4 @@ session_file.session-journal
 # files
 test.py
 chatgpt.py
+.DS_Store
